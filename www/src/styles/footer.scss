@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid red;
+}
+
+.footer__container--redes img{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    border: 1px solid red;
+    margin: 15px;      
+}
+
+.footer__container--copyrigth{
+    color:black ;
+    font-size: 25px;
+
+}
